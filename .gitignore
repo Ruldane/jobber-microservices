@@ -1,0 +1,15 @@
+2-notification-service/1-api-gateway/node_modules/
+2-notification-service/*. log
+2-notification-service/.DS_Store
+2-notification-service/dist
+2-notification-service/build
+2-notification-service/secrets.md
+2-notification-service/.env
+
+1-api-gateway/node_modules/
+1-api-gateway/*. log
+1-api-gateway/.DS_Store
+1-api-gateway/dist
+1-api-gateway/build
+1-api-gateway/secrets.md
+1-api-gateway/.env

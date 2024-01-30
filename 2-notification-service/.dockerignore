@@ -1,0 +1,5 @@
+node_modules
+.get
+Dockerfile
+.dockerignore
+coverage
